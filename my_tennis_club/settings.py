@@ -2,8 +2,6 @@
 Django settings for my_tennis_club project.
 Production-ready for Render + Supabase
 """
-from dotenv import load_dotenv
-load_dotenv()
 import os
 from pathlib import Path
 
